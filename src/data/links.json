@@ -1,0 +1,5 @@
+[
+  { "target": "/", "label": "Home" },
+  { "target": "/upload", "label": "Upload" },
+  { "target": "/list", "label": "List" }
+]

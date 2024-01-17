@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+    <sale id="1">
+        <name>Škoda Oktávia</name>
+        <sellDate>2010-12-02</sellDate>
+        <price>500000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="2">
+        <name>Škoda Felicia</name>
+        <sellDate>2010-12-03</sellDate>
+        <price>210000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="3">
+        <name>Škoda Fabia</name>
+        <sellDate>2010-12-04</sellDate>
+        <price>350000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="4">
+        <name>Škoda Oktávia</name>
+        <sellDate>2010-12-04</sellDate>
+        <price>500000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="5">
+        <name>Škoda Oktávia</name>
+        <sellDate>2010-12-05</sellDate>
+        <price>500000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="6">
+        <name>Škoda Fabia</name>
+        <sellDate>2010-12-05</sellDate>
+        <price>350000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="7">
+        <name>Škoda Fabia</name>
+        <sellDate>2010-12-06</sellDate>
+        <price>350000</price>
+        <vat>0.2</vat>
+    </sale>
+    <sale id="8">
+        <name>Škoda Forman</name>
+        <sellDate>2000-12-04</sellDate>
+        <price>100000</price>
+        <vat>0.19</vat>
+    </sale>
+    <sale id="9">
+        <name>Škoda Favorit</name>
+        <sellDate>2000-12-04</sellDate>
+        <price>80000</price>
+        <vat>0.19</vat>
+    </sale>
+    <sale id="10">
+        <name>Škoda Forman</name>
+        <sellDate>2010-12-06</sellDate>
+        <price>100000</price>
+        <vat>0.19</vat>
+    </sale>
+    <sale id="11">
+        <name>Škoda Felicia</name>
+        <sellDate>2000-12-03</sellDate>
+        <price>210000</price>
+        <vat>0.19</vat>
+    </sale>
+    <sale id="12">
+        <name>Škoda Felicia</name>
+        <sellDate>2000-12-03</sellDate>
+        <price>210000</price>
+        <vat>0.19</vat>
+    </sale>
+    <sale id="13">
+        <name>Škoda Oktávia</name>
+        <sellDate>2000-12-07</sellDate>
+        <price>500000</price>
+        <vat>0.2</vat>
+    </sale>
+</sales>
